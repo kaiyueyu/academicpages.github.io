@@ -8,5 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a MS Biostatistics Capstone student at the Univesity of Washington. I am passionate and self-motivated. 
-# I am driving to develop statistical methods to improve life and make a better world.  
+I am an MS Biostatistics Capstone student at the Univesity of Washington. I am passionate and self-motivated. I am driven to develop innovative statistical methods to benefit people and make the world better.  
